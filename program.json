@@ -1,0 +1,6 @@
+{
+  "program": "room_capacity_calculator.aleo",
+  "version": "0.0.100",
+  "description": "Aleo program to calculate the room capacity based on the number of chairs and tables.",
+  "license": "MIT"
+}
